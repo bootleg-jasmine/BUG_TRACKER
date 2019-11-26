@@ -1,5 +1,6 @@
 # BUG_TRACKER
 Bug Tracker for Mi A2 aka Jasmine_Sprout
+
 How to add a bug
 - Press "Issues" button
 - Press the "New Issue" button
